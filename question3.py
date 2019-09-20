@@ -3,5 +3,5 @@
 
 userInput = int(input("Enter a negative number"))
 
-for index in range[7, userInput-1, -1]:
-    print(index)
+for x in range(7, userInput - 1, -1):
+    print(x)
