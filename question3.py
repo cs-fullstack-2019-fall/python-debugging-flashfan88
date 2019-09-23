@@ -5,3 +5,4 @@ userInput = int(input("Enter a negative number"))
 
 for x in range(7, userInput - 1, -1):
     print(x)
+# You didn't comment your code!?!~?!

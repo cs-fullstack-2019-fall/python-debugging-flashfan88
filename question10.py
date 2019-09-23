@@ -20,3 +20,4 @@ emptyArray.append(pet3)
 
 for eachElement in emptyArray:
     eachElement.printAllAttributes()
+    # NO comments at all??
